@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Product Store</string>
+    <string name="title_activity_item_view_on_web">ItemViewOnWebActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="test">test</string>
+    <string name="empty_content">No Data</string>
+    <string name="empty_history">No History</string>
+    <string name="history_title">history</string>
+
+    !-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-0664573200302260/332653322424</string>
+    <!--string name="interstitial_full_screen">ca-app-pub-066498932138293260/1769900428</string-->
+    <string name="interstitial_full_screen">ca-app-pub-6046034785851961/xxxxxx</string>
+    <string name = "dialog_title">Welcom to my application</string>
+    <string name="welcome_message">Please press on the load button to load product list</string>
+    <string name="delete">DELETE</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#197cce</color>
+    <color name="green">#60e741</color>
+    <color name="white">#ccc</color>
+    <color name="specialRed">#c71d1d</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="colorHistoryItemText">#EEEEEE</color>
+    <color name="bg_row_background">#fa315b</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+</resources>
